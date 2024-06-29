@@ -1,6 +1,6 @@
 # ![Welcome To Graveyard](images/graveyard_text2.png)
 
-![GitHub last commit](https://img.shields.io/github/last-commit/katehaledev/graveyard_py) ![Current Version](https://img.shields.io/badge/version-pre--alpha-lightgrey) ![GitHub Sponsors](https://img.shields.io/github/sponsors/katehaledev)
+![GitHub last commit](https://img.shields.io/github/last-commit/katehaledev/graveyard_py) ![Current Version](https://img.shields.io/badge/version-pre--alpha-lightgrey)
 
 ## Welcome to Graveyard, a Sims 4 Family Tracker 
 
