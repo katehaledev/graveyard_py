@@ -14,7 +14,7 @@ Graveyard is a companion desktop application for [The Sims 4](https://www.ea.com
 
 ## Technical Details
 
-Graveyard is being developed using Python 3.8 & Qt.
+Graveyard is being developed using Python 3.9 & Qt.
 Images are edited with [pixlr](https://pixlr.com).
 Screenshots are taken from the [The Sims 4](https://www.ea.com/games/the-sims).
 
