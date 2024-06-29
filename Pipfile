@@ -5,6 +5,8 @@ name = "pypi"
 
 [packages]
 pyside6 = "*"
+pyqt6 = "*"
+pyqt6-tools = "*"
 
 [dev-packages]
 
