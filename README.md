@@ -1,4 +1,4 @@
-# ![Welcome To Graveyard](images/graveyard_text2.png)
+# ![Welcome To Graveyard](images/readme/graveyard_text2.png)
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/katehaledev/graveyard_py) ![Current Version](https://img.shields.io/badge/version-pre--alpha-lightgrey)
 
